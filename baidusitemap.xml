@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+
+
+    
+  <url>
+    <loc>http://blog.techbridge.cc/2016/04/15/ros-2-dds/</loc>
+    <lastmod>2016-04-15T15:50:19.000Z</lastmod>
+    <data>
+        <display>
+        <title>用DDS開發ROS 2.0</title>
+        <pubTime>2016-04-15T14:18:57.000Z</pubTime>
+        
+        <tag>機器人, Robot, ROS, DDS</tag>
+         
+         
+           
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://blog.techbridge.cc/2016/04/02/Browser-Rendering-Optimization/</loc>
+    <lastmod>2016-04-15T13:43:26.000Z</lastmod>
+    <data>
+        <display>
+        <title>Browser Rendering Optimization</title>
+        <pubTime>2016-04-01T16:13:00.000Z</pubTime>
+        
+         
+           
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://blog.techbridge.cc/2016/03/24/android-decompile-introduction/</loc>
+    <lastmod>2016-04-15T13:43:26.000Z</lastmod>
+    <data>
+        <display>
+        <title>人人都會的 Android Apk 反編譯</title>
+        <pubTime>2016-03-24T15:30:00.000Z</pubTime>
+        
+        <tag>Android, Decompile, Apktool, Smali, Dex2jar, Mobile, 行動網路, 反編譯, APK</tag>
+         
+         
+           
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://blog.techbridge.cc/2016/04/04/react-react-native-es5-es6-cheat-sheet/</loc>
+    <lastmod>2016-04-15T13:43:26.000Z</lastmod>
+    <data>
+        <display>
+        <title>一看就懂的 React ES5、ES6+ 常見用法對照表</title>
+        <pubTime>2016-04-04T15:26:00.000Z</pubTime>
+        
+        <tag>React, React Native, ES5, ES6, ES7, JavaScript, JavaScript2015, Webpack</tag>
+         
+         
+           
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://blog.techbridge.cc/2016/03/19/about/</loc>
+    <lastmod>2016-04-15T13:43:26.000Z</lastmod>
+    <data>
+        <display>
+        <title>關於這個技術共筆部落格</title>
+        <pubTime>2016-03-18T22:54:49.000Z</pubTime>
+        
+        <tag>IoT, Mobile, Web, Startup, Data, Robot, Maker, UI/UX, Product</tag>
+         
+         
+           
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://blog.techbridge.cc/2016/03/19/how-to-build-a-great-startup-culture/</loc>
+    <lastmod>2016-04-15T13:43:26.000Z</lastmod>
+    <data>
+        <display>
+        <title>如何打造更好的科技新創 (Startup) 工作環境和組織文化？</title>
+        <pubTime>2016-03-19T01:54:49.000Z</pubTime>
+        
+        <tag>創新創業, 創業, 新創公司, Code wins arguments, Hack Day, Linux, Mac, Open Source, Startup, User Experience</tag>
+         
+         
+           
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://blog.techbridge.cc/2016/03/19/ros-caffe/</loc>
+    <lastmod>2016-04-15T13:43:26.000Z</lastmod>
+    <data>
+        <display>
+        <title>Caffe & GoogLeNet，怎麼幫助機器人更好地辨識物體</title>
+        <pubTime>2016-03-19T02:54:49.000Z</pubTime>
+        
+        <tag>機器人, 深度學習, Deep Learing, Robot, GoogLeNet, Caffe</tag>
+         
+         
+           
+        </display>
+    </data>
+    </url>
+
+    
+</urlset>
