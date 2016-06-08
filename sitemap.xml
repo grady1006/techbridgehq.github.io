@@ -2,35 +2,70 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>http://blog.techbridge.cc/2016/05/14/ros-object-recognition-kitchen/</loc>
+    <loc>http://blog.techbridge.cc/2016/06/08/ros-ecto-first/</loc>
     
-    <lastmod>2016-05-14T04:05:08.000Z</lastmod>
+    <lastmod>2016-06-08T12:52:13.000Z</lastmod>
     
   </url>
   
   <url>
-    <loc>http://blog.techbridge.cc/2016/03/19/about/</loc>
+    <loc>http://blog.techbridge.cc/2016/05/14/ros-object-recognition-kitchen/</loc>
     
-    <lastmod>2016-05-14T03:01:44.000Z</lastmod>
+    <lastmod>2016-06-08T12:30:48.000Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://blog.techbridge.cc/2016/03/19/how-to-build-a-great-startup-culture/</loc>
+    
+    <lastmod>2016-06-08T12:25:42.000Z</lastmod>
     
   </url>
   
   <url>
     <loc>http://blog.techbridge.cc/2016/04/29/introduce-flux-from-flux-and-mvc/</loc>
     
-    <lastmod>2016-05-14T03:01:44.000Z</lastmod>
+    <lastmod>2016-06-08T12:25:42.000Z</lastmod>
     
   </url>
   
   <url>
     <loc>http://blog.techbridge.cc/2016/04/21/react-jsx-introduction/</loc>
     
-    <lastmod>2016-05-14T03:01:44.000Z</lastmod>
+    <lastmod>2016-06-08T12:25:42.000Z</lastmod>
     
   </url>
   
   <url>
     <loc>http://blog.techbridge.cc/2016/04/04/react-react-native-es5-es6-cheat-sheet/</loc>
+    
+    <lastmod>2016-06-08T12:25:42.000Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://blog.techbridge.cc/2016/05/28/reactive-programming-intro-by-rxjs/</loc>
+    
+    <lastmod>2016-06-08T12:25:42.000Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://blog.techbridge.cc/2016/05/20/fast-way-to-get-apk-information/</loc>
+    
+    <lastmod>2016-06-08T12:25:42.000Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://blog.techbridge.cc/2016/06/04/sketch-prototyping-for-engineer/</loc>
+    
+    <lastmod>2016-06-08T12:25:42.000Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://blog.techbridge.cc/2016/03/19/about/</loc>
     
     <lastmod>2016-05-14T03:01:44.000Z</lastmod>
     
@@ -44,13 +79,6 @@
   </url>
   
   <url>
-    <loc>http://blog.techbridge.cc/2016/04/23/fast-restful-nodejs-api-backend/</loc>
-    
-    <lastmod>2016-05-14T03:01:44.000Z</lastmod>
-    
-  </url>
-  
-  <url>
     <loc>http://blog.techbridge.cc/about/index.html</loc>
     
     <lastmod>2016-05-14T03:01:44.000Z</lastmod>
@@ -58,7 +86,14 @@
   </url>
   
   <url>
-    <loc>http://blog.techbridge.cc/2016/03/19/how-to-build-a-great-startup-culture/</loc>
+    <loc>http://blog.techbridge.cc/2016/04/23/fast-restful-nodejs-api-backend/</loc>
+    
+    <lastmod>2016-05-14T03:01:44.000Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://blog.techbridge.cc/2016/03/24/android-decompile-introduction/</loc>
     
     <lastmod>2016-04-15T13:43:26.000Z</lastmod>
     
@@ -66,13 +101,6 @@
   
   <url>
     <loc>http://blog.techbridge.cc/2016/03/19/ros-caffe/</loc>
-    
-    <lastmod>2016-04-15T13:43:26.000Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://blog.techbridge.cc/2016/03/24/android-decompile-introduction/</loc>
     
     <lastmod>2016-04-15T13:43:26.000Z</lastmod>
     
